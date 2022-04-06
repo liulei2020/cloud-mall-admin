@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47492317.chunk.css",
+    "main.js": "/static/js/main.2ce7695a.chunk.js",
+    "main.js.map": "/static/js/main.2ce7695a.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.c798e9d4.chunk.css": "/static/css/2.c798e9d4.chunk.css",
+    "static/js/2.9e36b183.chunk.js": "/static/js/2.9e36b183.chunk.js",
+    "static/js/2.9e36b183.chunk.js.map": "/static/js/2.9e36b183.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.263723a7e5fe07c4e771c32feb1c5aea.js": "/precache-manifest.263723a7e5fe07c4e771c32feb1c5aea.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c798e9d4.chunk.css.map": "/static/css/2.c798e9d4.chunk.css.map",
+    "static/css/main.47492317.chunk.css.map": "/static/css/main.47492317.chunk.css.map",
+    "static/media/not-found.less": "/static/media/404.9161e238.png",
+    "static/media/beian.png": "/static/media/beian.d0289dc0.png",
+    "static/media/login.less": "/static/media/bg.372917a5.jpg",
+    "static/media/system.css": "/static/media/iconfont.f0e15ca0.svg",
+    "static/media/logo.png": "/static/media/logo.df722368.png"
+  }
+}
